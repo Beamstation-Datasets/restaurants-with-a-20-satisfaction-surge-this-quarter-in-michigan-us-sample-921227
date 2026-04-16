@@ -1,0 +1,12 @@
+{
+  "export_job_id": "904910fd-9fde-49e0-a146-889baf43e256",
+  "id_short": 921227,
+  "published_at": "2026-04-16T07:10:34Z",
+  "repo_name": "restaurants-with-a-20-satisfaction-surge-this-quarter-in-michigan-us-sample-921227",
+  "sample_asset_name": "beamstation_921227_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/921227/beamstation_921227_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "6296015516ee7e1800c9aee1833da84968586a600f174bb96fda9b7a37b1da77",
+  "sample_size_bytes": 109249,
+  "total_records": 252
+}
