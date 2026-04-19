@@ -9,9 +9,9 @@
 | Dataset ID | `921227` |
 | Location | Michigan |
 | Category | Restaurants |
-| Full dataset size | 252 records |
-| Free sample size | 25 records (9.92%) |
-| Last export | 2026-04-09T18:55:14.546063+00:00 |
+| Full dataset size | 251 records |
+| Free sample size | 25 records (9.96%) |
+| Last export | 2026-04-16T22:11:51.315578+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurants-with-a-20-satisfaction-surge-this-quarter-in-michigan-us-sample-921227/releases/download/sample-latest/beamstation_921227_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
